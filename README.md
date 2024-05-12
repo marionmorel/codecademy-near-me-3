@@ -1,4 +1,4 @@
-# NearMe 1
+# NearMe 2
 
 ## Codecademy Project
 
